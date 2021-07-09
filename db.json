@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "text": "My Birthday Celebration",
+      "day": "7th of July",
+      "reminder": true,
+      "id": 1
+    }
+  ]
+}
